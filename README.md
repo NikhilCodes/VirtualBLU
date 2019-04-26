@@ -8,4 +8,5 @@ A Virtual Assistant built on Wolfram|Alpha and Tensorflow with sleek PyQt5 GUI.
  - [x] x64
  - [ ] x86
 
-## Screenshots
+## Screenshot
+![GitHub Logo](/SCREENSHOTS/ss1.jpg)
