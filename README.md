@@ -18,7 +18,7 @@ A Virtual Assistant built on Wolfram|Alpha and Tensorflow with sleek PyQt5 GUI.
 
 ### Probable Error and How to Fix them!
 - **Error #1**<br>
-  This programme can't start because api-ms-win-crt-runtime-l1-1-0.dll is missing. Try to reinstall this.
+  This programme can't start because api-ms-win-crt-runtime-l1-1-0.dll is missing. Try to reinstall this.<br>
   **FIX**<br>
   You are probably running Windows 7 (Service pack 1 missing)
   The default solution is to install KB2999226 update of Microsoft.
