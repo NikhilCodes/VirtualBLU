@@ -11,13 +11,13 @@ A user-friendly Virtual Assistant built on Wolfram|Alpha and Tensorflow with sle
  - [ ] x86
 
 ## BLU Demo
-![gif Playback](IMAGES/BLU-DEMO.gif)
+![gif Playback](IMAGES/BLU-DEMO.gif)<br>
 Cool, Isn't it?
 
 ## Screenshot
 ![Screenshot2](IMAGES/ss1.png)
-![Screenshot2](IMAGES/ss2.png)
-Secret to vast knowledge is through Wolfram|Alpha Computational Engine
+![Screenshot2](IMAGES/ss2.png)<br>
+Secret to vast knowledge is through Wolfram|Alpha Computational Engine.
 
 ---
 # If you like my Project, then please do drop a ⭐
