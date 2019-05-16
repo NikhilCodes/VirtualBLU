@@ -4,7 +4,9 @@ A user-friendly Virtual Assistant built on Wolfram|Alpha and Tensorflow with sle
 
 
 ## OS Compatibility
-- Windows 7(SP1) or higher
+- Windows 7(SP1)
+- Windows 8, 8.1
+- Windows 10
 
 ## Windows Executable Binaries Availability
  - [x] x64
