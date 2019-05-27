@@ -10,7 +10,7 @@ A user-friendly Virtual Assistant built on Wolfram|Alpha and Tensorflow with sle
 
 ## Windows Executable Binaries Availability
  - [x] x64
- - [ ] x86
+ - [x] x86
 
 ## BLU Demo
 ![gif Playback](IMAGES/BLU-DEMO.gif)<br>
