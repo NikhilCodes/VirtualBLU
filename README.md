@@ -1,7 +1,7 @@
 ![BLU Logo](IMAGES/BLU-LOGO.png)
 
 # BLU | VA
--> A user-friendly Virtual Assistant built on Wolfram|Alpha and Tensorflow with sleek PyQt5 GUI. <-
+A user-friendly Virtual Assistant built on Wolfram|Alpha and Tensorflow with sleek PyQt5 GUI.
 
 
 ## OS Compatibility
