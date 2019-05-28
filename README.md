@@ -1,4 +1,5 @@
-![LOGO](IMAGES/BLU-LOGO.png)
+<div style="text-align:center"><img src="IMAGES/BLU-LOGO.png" /></div>
+
 # BLU | VA
 A user-friendly Virtual Assistant built on Wolfram|Alpha and Tensorflow with sleek PyQt5 GUI.
 
