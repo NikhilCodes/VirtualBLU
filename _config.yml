@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-show_downloads: true
+#show_downloads: true
 use_logo: true
 logo: '/IMAGES/BLU-LOGO.png'
