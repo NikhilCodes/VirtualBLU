@@ -14,7 +14,8 @@ A user-friendly Virtual Assistant built on Wolfram|Alpha and Tensorflow with sle
  - [x] x86
  
 ## Downloads
-<button onclick="https://www.google.com">32 bit Download</button>
+[32-bit Download](https://github.com/NikhilCodes/VirtualBLU/raw/master/x86/BLU-x86-stable-27.05.19.rar)
+[64-bit Download](https://github.com/NikhilCodes/VirtualBLU/raw/master/x64/BLU-x64-stable-27.04.19.rar)
 
 ## BLU Demo
 ![gif Playback](IMAGES/BLU-DEMO.gif)<br><br>
