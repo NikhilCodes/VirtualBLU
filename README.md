@@ -48,4 +48,4 @@ Secret to vast knowledge is through Wolfram|Alpha Computational Engine.
   If you have downloaded 64bit version and the program runs and exits instantaneously.<br>
   **FIX**<br>
   You should try downloading 32bit version instead, it might work.
-  As surprizingly enough, it did work for some users
+  As surprizingly enough, it did work for some users.
