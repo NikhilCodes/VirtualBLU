@@ -44,7 +44,7 @@ Secret to vast knowledge is through Wolfram|Alpha Computational Engine.
   Or Install Windows 7(Service Pack 1 included) or higher!
   Then download and install Visual C++ Redistributable vc_redist.x64.exe
 
-- **Error #1**<br>
+- **Error #2**<br>
   If you have downloaded 64bit version and the program runs and exits instantaneously.<br>
   **FIX**<br>
   You should try downloading 32bit version instead, it might work.
