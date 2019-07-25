@@ -10,7 +10,7 @@ A user-friendly Virtual Assistant built on Wolfram|Alpha and Tensorflow with sle
 - Windows 10
  
 ## Downloads
-- [32-bit Download](https://github.com/NikhilCodes/VirtualBLU/raw/master/x86/BLU-x86-stable-27.05.19.rar)
+- [Download Now](https://github.com/NikhilCodes/VirtualBLU/raw/master/x86/BLU-x86-stable-27.05.19.rar)
 
 ## BLU Demo
 ![gif Playback](IMAGES/BLU-DEMO.gif)<br><br>
