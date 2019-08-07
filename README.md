@@ -8,6 +8,12 @@ A user-friendly Virtual Assistant built on Wolfram|Alpha and Tensorflow with sle
 - Windows 7(SP1)
 - Windows 8, 8.1
 - Windows 10
+
+## Features
+ - Access to Wolfram|Alpha knowledge Engine.
+ - Fast and Accurate Speech to Text using Google Speech API.
+ - Tensorflow trained model for text classification.
+ - Sleek user interfacce using Qt5 Graphics.
  
 ## Downloads
 - [Download Now](https://github.com/NikhilCodes/VirtualBLU/raw/master/x86/BLU-x86-stable-27.05.19.rar)
