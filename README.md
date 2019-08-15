@@ -16,7 +16,7 @@ A user-friendly Virtual Assistant built on Wolfram|Alpha and Tensorflow with sle
  - Sleek user interfacce using Qt5 Graphics.
  
 ## Downloads
-- [Download Now](https://github.com/NikhilCodes/VirtualBLU/raw/master/x86/BLU-x86-stable-27.05.19.rar)
+- [Download Now](https://drive.google.com/file/d/1iYuTKw_Z2Dg9k-2sfL62HqvvVy2loLTR/view?usp=sharing)
 
 ## BLU Demo
 ![gif Playback](IMAGES/BLU-DEMO.gif)<br><br>
