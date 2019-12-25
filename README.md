@@ -35,6 +35,8 @@ Secret to vast knowledge is through Wolfram|Alpha Computational Engine.
 <iframe src="https://ghbtns.com/github-btn.html?user=nikhilcodes&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
 
 ---
+# Source Code can be found under following
+https://github.com/nikhilcodes/BLU-VI
 
 ### Probable Error and How to Fix them!
 - **Error #1**<br>
