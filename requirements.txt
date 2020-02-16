@@ -1,0 +1,7 @@
+PyQt5
+tensorflow
+keras
+wolframalpha
+SpeechRecognition
+PyAudio
+playsound

@@ -1,54 +1,24 @@
-![BLU Logo](IMAGES/BLU-LOGO.png)
+# BLU-VI
+BLU is an opensource voice assistant.
 
-# BLU | VA
-A user-friendly Virtual Assistant built on Wolfram|Alpha and Tensorflow with sleek PyQt5 GUI.
-
-
-## OS Compatibility
-- Windows 7(SP1)
-- Windows 8, 8.1
-- Windows 10
-
-## Features
- - Access to Wolfram|Alpha knowledge Engine.
- - Fast and Accurate Speech to Text using Google Speech API.
- - Tensorflow trained model for text classification.
- - Sleek user interfacce using Qt5 Graphics.
+# Dependencies Install Instructions
+ ## Linux 
+  Users using Ubuntu or Fedora on their workstation can run 
+  
+  `./install_deps.sh`
  
-## Downloads
-- [Download Now](https://drive.google.com/file/d/1iYuTKw_Z2Dg9k-2sfL62HqvvVy2loLTR/view?usp=sharing)
+ ## Windows
+  * Make sure you have upgraded the python pip to latest version. (**IMPORTANT**)
+  * Windows users need to run `pip3 install -r requirements.txt` on their shell.
+  * Then again run `pip3 install pypiwin32` on the same.
 
-## BLU Demo
-![gif Playback](IMAGES/BLU-DEMO.gif)<br><br>
-Cool, Isn't it?
+# Running
+Copy paste the following command
 
-## Screenshot
-![Screenshot2](IMAGES/ss1.png)
-![Screenshot2](IMAGES/ss2.png)<br>
-Secret to vast knowledge is through Wolfram|Alpha Computational Engine.
+```python3 BLU.py```
 
----
-# If you like my Project, then please do drop a ⭐
-<iframe src="https://ghbtns.com/github-btn.html?user=nikhilcodes&repo=virtualblu&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+# DEMO
+![Screenshot 1](DEMO/ss1.png)
+![Screenshot 2](DEMO/ss2.png)
 
-# Follow ME to stay tuned for MORE cool Projects
-<iframe src="https://ghbtns.com/github-btn.html?user=nikhilcodes&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
-
----
-# Source Code can be found under following
-https://github.com/nikhilcodes/BLU-VI
-
-### Probable Error and How to Fix them!
-- **Error #1**<br>
-  This programme can't start because api-ms-win-crt-runtime-l1-1-0.dll is missing. Try to reinstall this.<br>
-  **FIX**<br>
-  You are probably running Windows 7 (Service pack 1 missing)
-  The default solution is to install KB2999226 update of Microsoft.
-  Or Install Windows 7(Service Pack 1 included) or higher!
-  Then download and install Visual C++ Redistributable vc_redist.x64.exe
-
-- **Error #2**<br>
-  If you have downloaded 64bit version and the program runs and exits instantaneously.<br>
-  **FIX**<br>
-  You should try downloading 32bit version instead, it might work.
-  As surprizingly enough, it did work for some users.
+Don't forget to drop a star, cause they motivate me to create more like these.

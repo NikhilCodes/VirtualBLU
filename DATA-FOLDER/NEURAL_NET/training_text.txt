@@ -1,0 +1,8 @@
+who are you-who the heck are you-you-your name-whats your name-who are you anyway=WHO_ARE_YOU
+what are you-what the hell are you=WHAT_ARE_YOU
+hello there-hello-hi-hii-hey there-hey=GREET
+get out-whoever you are-what are you doing-what the heck are you doing here=UNKNOWN
+ fucker-darn you-curse you-fuck you-what the fuck-suck my dick-i am gonna fuck you-dont fuck with me=CURSE
+-who is -how are you-whats the weather=QUERY
+who created you-who is your creator-who is your maker-your maker-your creator=CREATOR_INFO
+who am i-i forgot who i am=WHO_AM_I
